@@ -1,0 +1,10 @@
+C:\aa\C#\TowersWindows\bin\Debug\TowersWindows.exe.config
+C:\aa\C#\TowersWindows\bin\Debug\TowersWindows.exe
+C:\aa\C#\TowersWindows\bin\Debug\TowersWindows.pdb
+C:\aa\C#\TowersWindows\obj\Debug\TowersWindows.Form1.resources
+C:\aa\C#\TowersWindows\obj\Debug\TowersWindows.Properties.Resources.resources
+C:\aa\C#\TowersWindows\obj\Debug\TowersWindows.csproj.GenerateResource.cache
+C:\aa\C#\TowersWindows\obj\Debug\TowersWindows.csproj.CoreCompileInputs.cache
+C:\aa\C#\TowersWindows\obj\Debug\TowersWindows.exe
+C:\aa\C#\TowersWindows\obj\Debug\TowersWindows.pdb
+C:\aa\C#\TowersWindows\obj\Debug\TowersWindows.csprojAssemblyReference.cache
